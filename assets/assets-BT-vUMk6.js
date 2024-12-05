@@ -1,0 +1,1 @@
+import{J as n,aB as r}from"./index-Blk8C98K.js";const d=s=>{const t=s.substring(s.lastIndexOf("."),s.length),e=n().mode=="dark"?`${s.substring(0,s.lastIndexOf("."))}-dark`:s.substring(0,s.lastIndexOf("."));return`/metronic8/vue/demo2/media/illustrations/${r.value}/${e}${t}`},a=s=>"/metronic8/vue/demo2/"+s;export{d as a,a as g};
