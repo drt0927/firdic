@@ -1,0 +1,1 @@
+import"./clipboard-Bw6u_SbE.js";import{L as t}from"./index-DFwW4pmA.js";t(()=>"퍼딕 (The First Descendant Dictionary)");const n=t(()=>"1.0.0");t(()=>"demo2");const o=t(()=>"https://drt0927.github.io");export{o as g,n as v};

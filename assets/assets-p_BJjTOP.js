@@ -1,1 +1,0 @@
-import{J as n,aD as r}from"./index-C-7U9C4U.js";const o=s=>{const t=s.substring(s.lastIndexOf("."),s.length),e=n().mode=="dark"?`${s.substring(0,s.lastIndexOf("."))}-dark`:s.substring(0,s.lastIndexOf("."));return`/firdic/media/illustrations/${r.value}/${e}${t}`},a=s=>"/firdic/"+s;export{o as a,a as g};
